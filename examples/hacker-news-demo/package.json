@@ -1,0 +1,13 @@
+{
+  "name": "hacker-news-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape, structure, batch-scrape and map Hacker News with Firecrawl",
+  "scripts": {
+    "start": "node demo.mjs"
+  },
+  "dependencies": {
+    "firecrawl": "^4.41.0"
+  }
+}
